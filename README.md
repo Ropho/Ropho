@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">2 semester student at MIPT (DREC)</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently waiting for 
 
-> **project refinement**
+> **INTERNSHIP**
 
 - 📫 How to reach me :
 
