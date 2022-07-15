@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently  
 
-> **WAITING FOR INTERNSHIP**
+> **INTERNING**
 
 - 📫 How to reach me :
 
