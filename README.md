@@ -7,7 +7,7 @@
 
 - 📫 How to reach me :
 
->  E-MAIL   : **goncharenko.rd@phystech.edu**
+>  E-MAIL   : **ropho.calee@gmail.com**
 
 > TELEGRAM  : **[TG](https://t.me/Ropho)**
                       
