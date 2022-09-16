@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently  
 
-> **INTERNING**
+> **STUDYING**
 
 - 📫 How to reach me :
 
