@@ -20,7 +20,8 @@
                       
 ### :scroll: Know about my experiences: 
 
-> CURRICULUM VITAE: [CV](https://www.overleaf.com/read/nwstrhwmhqxg)
+> CURRICULUM VITAE [EN]: [Overleaf](https://www.overleaf.com/read/nwstrhwmhqxg)
+> CURRICULUM VITAE [EN]: [PDF](https://www.overleaf.com/read/nwstrhwmhqxg)
 
 
 ---
