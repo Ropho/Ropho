@@ -13,9 +13,9 @@
 
 ### :mailbox: How to reach me :
 
->  E-MAIL   : **ropho.calee@gmail.com**
+>  E-MAIL   : **gon4arencko.r@inbox.ru**
 
-> TELEGRAM  : **[TG](https://t.me/Ropho)**
+> TELEGRAM  : **[@Ropho](https://t.me/Ropho)**
                       
                       
 ### :scroll: Know about my experiences: 
