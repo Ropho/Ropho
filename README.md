@@ -4,11 +4,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">4 semester student at MIPT (DREC)</h3>
+<h3 align="center">5 semester student at MIPT (DREC)</h3>
 
 ### :computer: I’m currently  
 
-> **STUDYING / INTERNING**
+> **STUDYING / WORKING**
 
 
 ### :mailbox: How to reach me :
