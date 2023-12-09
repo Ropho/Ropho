@@ -11,23 +11,12 @@
 > **STUDYING / WORKING**
 
 
-### :mailbox: How to reach me :
+### :mailbox: How to reach me:
 
 >  E-MAIL   : **gon4arencko.r@inbox.ru**
 
 > TELEGRAM  : **[@Ropho](https://t.me/Ropho)**
                       
-                      
-### :scroll: Know about my experiences: 
-
-> CURRICULUM VITAE [EN]: [OverLeaf](https://www.overleaf.com/read/nwstrhwmhqxg)
-
-> CURRICULUM VITAE [EN]: [PDF](https://github.com/Ropho/Ropho/blob/main/CV__EN.pdf)
-
-<!-- > Резюме [RU]: [OverLeaf](https://www.overleaf.com/read/nwstrhwmhqxg)
-
-> Резюме [RU]: [PDF](https://github.com/Ropho/Ropho/blob/main/CV__EN_.pdf)
- -->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
