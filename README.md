@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">5 semester student at MIPT (DREC)</h3>
+<h3 align="center">6 semester student at MIPT (DREC)</h3>
 
 ### :computer: I’m currently  
 
@@ -41,4 +41,3 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ropho&theme=dark&mode=weekly)](https://git.io/streak-stats)
-<p align ="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ropho&show_icons=true&locale=en&layout=compact&theme=dark" alt="ropho" /></p>
