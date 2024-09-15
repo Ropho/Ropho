@@ -4,11 +4,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">6 semester student at MIPT (DREC)</h3>
+<h3 align="center">MIPT student & Hadal Project & Avito & ex VK</h3>
 
 ### :computer: I’m currently  
 
-> **STUDYING / WORKING**
+> **Learning the world**
+
+> **Having fun**
 
 
 ### :mailbox: How to reach me:
