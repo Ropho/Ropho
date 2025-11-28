@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">MIPT student & Hadal Project & Avito & ex VK</h3>
+<h3 align="center">MIPT student & Hadal Project & ex Avito & ex VK</h3>
 
 ### :computer: I’m currently  
 
